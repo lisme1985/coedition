@@ -88,7 +88,7 @@
     "TotalAmountText": 62
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/16/2022 09:51:59",
+  "HeaderLastSavedDateTimeUTC": "05/16/2022 10:27:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -101,12 +101,12 @@
     "tumbnailSelected@3x": "tumbnailSelected@3x.png"
   },
   "LocalResourceRootPaths": {
-    "logo@3x": "https://docserverpwaprodsfr.blob.core.windows.net/9a33afd7-84f1-419d-b419-a59474f083b6-1/resource/Assets0Images0logo%25403x.png?sv=2017-04-17&sr=b&sig=yQ9522azGMqcgquq7xz15tvjA1A%2Bch8zbNj8mpdhwb0%3D&spr=https&se=2022-05-17T09%3A59%3A18Z&sp=r",
-    "menu_96px": "https://docserverpwaprodsfr.blob.core.windows.net/9a33afd7-84f1-419d-b419-a59474f083b6-1/resource/Assets0Images0menu_96px.png?sv=2017-04-17&sr=b&sig=KMy3z2D0H4tu%2Bbv6oR8ESVp9Hd48k87m%2FCJjzmoJ9wg%3D&spr=https&se=2022-05-17T09%3A59%3A18Z&sp=r",
-    "menu_96px_2": "https://docserverpwaprodsfr.blob.core.windows.net/9a33afd7-84f1-419d-b419-a59474f083b6-1/resource/Assets0Images0menu_96px_2.png?sv=2017-04-17&sr=b&sig=3ZwNvr8JrzY6rEZkhITg4ciXpV5J%2F%2FwC7RNxI2JeKsM%3D&spr=https&se=2022-05-17T09%3A59%3A18Z&sp=r",
-    "Property Image": "https://docserverpwaprodsfr.blob.core.windows.net/9a33afd7-84f1-419d-b419-a59474f083b6-1/resource/Assets0Images0Property+Image.png?sv=2017-04-17&sr=b&sig=3MUuZsjvzphBgPat1Y6kO2zRiQyxi2s9CL4%2Fn8XgSN8%3D&spr=https&se=2022-05-17T09%3A59%3A18Z&sp=r",
-    "thumbnail@3x": "https://docserverpwaprodsfr.blob.core.windows.net/9a33afd7-84f1-419d-b419-a59474f083b6-1/resource/Assets0Images0thumbnail%25403x.png?sv=2017-04-17&sr=b&sig=3MUfy9hR1tW1YF7FQ2dd69kRu5e9QwfbfBpR1rhQrX0%3D&spr=https&se=2022-05-17T09%3A59%3A18Z&sp=r",
-    "tumbnailSelected@3x": "https://docserverpwaprodsfr.blob.core.windows.net/9a33afd7-84f1-419d-b419-a59474f083b6-1/resource/Assets0Images0tumbnailSelected%25403x.png?sv=2017-04-17&sr=b&sig=XwhwvNK4r6ZL463fx6N9RmLaAv1rvbIFSk51qtTMgPc%3D&spr=https&se=2022-05-17T09%3A59%3A18Z&sp=r"
+    "logo@3x": "https://docserverpwaprodsfr.blob.core.windows.net/040535f3-c68e-4b0a-927a-ad98e96e7755-1/resource/Assets0Images0logo%25403x.png?sv=2017-04-17&sr=b&sig=0ml9QzwK%2FiMV3fuvL8%2BDN7aLp6KaXEjCRqAI8A1vr9c%3D&spr=https&se=2022-05-17T10%3A36%3A37Z&sp=r",
+    "menu_96px": "https://docserverpwaprodsfr.blob.core.windows.net/040535f3-c68e-4b0a-927a-ad98e96e7755-1/resource/Assets0Images0menu_96px.png?sv=2017-04-17&sr=b&sig=RHCIt4JCkKl4FKZrIfBMZwhQHRben2kVcHv4paZSU74%3D&spr=https&se=2022-05-17T10%3A36%3A37Z&sp=r",
+    "menu_96px_2": "https://docserverpwaprodsfr.blob.core.windows.net/040535f3-c68e-4b0a-927a-ad98e96e7755-1/resource/Assets0Images0menu_96px_2.png?sv=2017-04-17&sr=b&sig=xiVL9CQ4EUf71MtJV25suQAYURwm9jUAjly7kjImmnE%3D&spr=https&se=2022-05-17T10%3A36%3A37Z&sp=r",
+    "Property Image": "https://docserverpwaprodsfr.blob.core.windows.net/040535f3-c68e-4b0a-927a-ad98e96e7755-1/resource/Assets0Images0Property+Image.png?sv=2017-04-17&sr=b&sig=cItPFlttPGQOt70nmXUeyCXSLZC%2BNlTIazak%2BSeQXFg%3D&spr=https&se=2022-05-17T10%3A36%3A37Z&sp=r",
+    "thumbnail@3x": "https://docserverpwaprodsfr.blob.core.windows.net/040535f3-c68e-4b0a-927a-ad98e96e7755-1/resource/Assets0Images0thumbnail%25403x.png?sv=2017-04-17&sr=b&sig=yuSuBlPUSTnOcUX3ZRadOlexEJ3x2doYf%2F8jMrw3Kx0%3D&spr=https&se=2022-05-17T10%3A36%3A37Z&sp=r",
+    "tumbnailSelected@3x": "https://docserverpwaprodsfr.blob.core.windows.net/040535f3-c68e-4b0a-927a-ad98e96e7755-1/resource/Assets0Images0tumbnailSelected%25403x.png?sv=2017-04-17&sr=b&sig=jvB97fksNRuokqDN7uHCd9DOLnVGITHAS3rzIz49twk%3D&spr=https&se=2022-05-17T10%3A36%3A37Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -251,7 +251,7 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.6716383,
+    "AnalysisLoadTime": 0.6260092,
     "ControlCount": {
       "button": 4,
       "gallery": 2,
@@ -265,7 +265,7 @@
       "text": 3,
       "timer": 1
     },
-    "DeserializationLoadTime": 0.9754936,
+    "DeserializationLoadTime": 2.9020711,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
