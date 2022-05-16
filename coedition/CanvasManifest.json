@@ -84,11 +84,11 @@
     "Id": "710bb290-9e12-48cc-9999-a06de12b2bb1",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "Name": "[EXO] Inventory Management",
+    "Name": "[Correction] Inventory Management",
     "OriginatingVersion": "1.179"
   },
   "PublishInfo": {
-    "AppName": "[EXO] Inventory Management",
+    "AppName": "[Correction] Inventory Management",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
