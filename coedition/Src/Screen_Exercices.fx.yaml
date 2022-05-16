@@ -1,0 +1,186 @@
+Screen_Exercices As screen:
+    Fill: =RGBA(242, 242, 242, 1)
+
+    Label1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =102
+        Size: =18
+        Text: ="Liste des tâches à réaliser"
+        Width: =1024
+        ZIndex: =1
+
+    Label2 As label:
+        Align: =Align.Center
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =218
+        PaddingLeft: =30
+        PaddingRight: =30
+        Size: =16
+        Text: ="Réduire drastiquement le nombre de contrôles de la gallery ""ListGallery"""
+        Width: =506
+        X: =4
+        Y: =102
+        ZIndex: =2
+
+    Label2_1 As label:
+        Align: =Align.Center
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =218
+        PaddingLeft: =30
+        PaddingRight: =30
+        Size: =16
+        Text: ="Supprimer 3 collections sans supprimer de fonctionalité"
+        Width: =506
+        X: =4
+        Y: =324
+        ZIndex: =3
+
+    Label2_2 As label:
+        Align: =Align.Center
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =218
+        PaddingBottom: =100
+        PaddingLeft: =30
+        PaddingRight: =30
+        Size: =16
+        Text: ="Renseigner la provenance de la donnée et la manière dont elle est générée dans la collection"
+        Width: =506
+        X: =4
+        Y: =546
+        ZIndex: =4
+
+    Label2_3 As label:
+        Align: =Align.Center
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =218
+        PaddingBottom: =100
+        PaddingLeft: =30
+        PaddingRight: =30
+        Size: =16
+        Text: ="Proposez une amélioration fonctionnelle utile de l'app"
+        Width: =506
+        X: =514
+        Y: =102
+        ZIndex: =5
+
+    Label2_4 As label:
+        Align: =Align.Center
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =218
+        PaddingLeft: =30
+        PaddingRight: =30
+        Size: =16
+        Text: ="Ajoutez la possibilité de modifier le stock directement depuis la gallery ""ListGallery"""
+        Width: =506
+        X: =514
+        Y: =324
+        ZIndex: =6
+
+    Label2_5 As label:
+        Align: =Align.Center
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =218
+        PaddingLeft: =30
+        PaddingRight: =30
+        Size: =16
+        Text: ="Ajoutez une fonctionnalité permettant de remettre tous les stocks à 100%"
+        Width: =506
+        X: =514
+        Y: =546
+        ZIndex: =7
+
+    Label3 As label:
+        Fill: =RGBA(242, 242, 242, 1)
+        Height: =90
+        Size: =10
+        Text: |-
+            ="Source de donnée : Fichier Excel
+            Enregistrement : via le contrôle Timer2.OnTimerEnd"
+        Width: =455
+        X: =24
+        Y: =656
+        ZIndex: =8
+
+    Label4_1 As label:
+        Align: =Align.Right
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =25
+        Italic: =true
+        PaddingRight: =10
+        Size: =12
+        Text: ="2 pts"
+        X: =870
+        Y: =324
+        ZIndex: =9
+
+    Label4_2 As label:
+        Align: =Align.Right
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =25
+        Italic: =true
+        PaddingRight: =10
+        Size: =12
+        Text: ="6 pts"
+        X: =870
+        Y: =546
+        ZIndex: =10
+
+    Label4_3 As label:
+        Align: =Align.Right
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =25
+        Italic: =true
+        PaddingRight: =10
+        Size: =12
+        Text: ="3 pts"
+        X: =364
+        Y: =546
+        ZIndex: =11
+
+    Label4_4 As label:
+        Align: =Align.Right
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =25
+        Italic: =true
+        PaddingRight: =10
+        Size: =12
+        Text: ="4 pts"
+        X: =360
+        Y: =324
+        ZIndex: =12
+
+    Label4_5 As label:
+        Align: =Align.Right
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =25
+        Italic: =true
+        PaddingRight: =10
+        Size: =12
+        Text: ="1 pt"
+        X: =870
+        Y: =102
+        ZIndex: =13
+
+    Label4_6 As label:
+        Align: =Align.Right
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =25
+        Italic: =true
+        PaddingRight: =10
+        Size: =12
+        Text: ="4 pts"
+        X: =360
+        Y: =102
+        ZIndex: =14
+
+    Label3_1 As label:
+        Fill: =RGBA(242, 242, 242, 1)
+        Height: =90
+        Size: =10
+        Text: ="Afficher le stock idéal dans la gallery des produits"
+        Width: =455
+        X: =539
+        Y: =209
+        ZIndex: =15
+
