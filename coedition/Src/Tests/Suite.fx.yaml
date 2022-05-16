@@ -1,0 +1,33 @@
+"'664e05b0-f282-4cac-b704-7833d405d177' As TestSuite":
+    Description: =""
+    DisplayName: ="Suite"
+
+    "'cb27e076-2685-4471-a07d-4964feb82a9a' As TestCase":
+        Description: =""
+        DisplayName: ="Casse"
+
+        Step1 As TestStep:
+            Description: ="Sélectionner 'TextInput1' sur la ligne 1 dans 'ListGallery'"
+            Screen: =HomeScreen
+            Value: =Select('ListGallery', 1, 'TextInput1')
+
+        Step2 As TestStep:
+            Description: ="Sélectionner 'TextBox1_5' sur la ligne 1 dans 'ListGallery'"
+            Screen: =HomeScreen
+            Value: =Select('ListGallery', 1, 'TextBox1_5')
+
+        Step3 As TestStep:
+            Description: ="Définir 'OrderQuantityText'.Text sur ""139"""
+            Screen: =ProductDetailsScreen
+            Value: =SetProperty('OrderQuantityText'.Text, "139")
+
+        Step4 As TestStep:
+            Description: ="Sélectionner 'Button1_1'"
+            Screen: =ProductDetailsScreen
+            Value: =Select('Button1_1')
+
+        Step5 As TestStep:
+            Description: ="Sélectionner 'Button1_3'"
+            Screen: =ConfirmationScreen
+            Value: =Select('Button1_3')
+

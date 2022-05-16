@@ -41,7 +41,7 @@
       "enablesaveloadcleardataonweb": false,
       "enhanceddelegation": true,
       "enhancedgalleryinitialization": true,
-      "errorhandling": false,
+      "errorhandling": true,
       "exportimportcomponents2": true,
       "externalmessage": false,
       "formuladataprefetch": true,
